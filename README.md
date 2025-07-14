@@ -27,6 +27,9 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux"/>
   </a>
+ <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" height="40" alt="Hadoop"/>
+  </a>
 </p>
 
 ---
