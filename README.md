@@ -36,11 +36,6 @@
 
 ## 🚧 Current Projects
 
-- 📅 **Appointment System** — Java + Spring Boot + MySQL
-- 🧠 Building a distributed data processing system using a Raspberry Pi cluster
-- 🔐 Learning Spring Security & JWT authentication  
-- 🧪 Writing bash scripts and managing distributed processes on Raspberry Pi
-
 ---
 
 ## 🔗 Connect with Me
