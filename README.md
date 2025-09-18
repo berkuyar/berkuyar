@@ -1,6 +1,6 @@
 # Hey 👋 I'm Berk
 
-🎓 3rd-year Computer Engineering student at Bartın University  
+🎓  4rd-year Computer Engineering student at Bartın University  
 💻 Focused on backend development with Java & Spring Boot  
 🤖 Interested in artificial intelligence and smart systems  
 🧠 Learning by building real-world projects and diving deep into code  
